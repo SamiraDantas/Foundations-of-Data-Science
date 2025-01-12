@@ -15,28 +15,6 @@ This interdisciplinary course integrates knowledge from:
 - Computer Science
 - Writing and Communication
 
-## Materials
-The primary materials for this course are adapted from the **Data 8 Book** and other resources shared by UC Berkeley. These resources are designed to:
-- Provide hands-on experience with data science techniques.
-- Foster understanding of key concepts through practical examples.
-- Encourage critical thinking and problem-solving.
-
-## Objectives
-By the end of this course, students will be able to:
-1. Explore and visualize data to identify patterns and trends.
-2. Use statistical tools to draw inferences and make predictions.
-3. Write clear and compelling narratives supported by data.
-4. Apply computational methods to manipulate and analyze data effectively.
-
-## Repository Structure
-- **`notebooks/`**: Jupyter Notebooks with lecture materials and exercises.
-- **`data/`**: Datasets used throughout the course.
-- **`assignments/`**: Homework and project guidelines.
-- **`resources/`**: Supplementary materials and references.
-
-## Prerequisites
-No prior programming or statistical knowledge is required. However, a willingness to learn and engage with data-driven problems is essential.
-
 ## Tools and Technologies
 - **Python**: The primary programming language used in the course.
 - **Jupyter Notebook**: For interactive computing and hands-on learning.
@@ -50,4 +28,4 @@ This course is inspired by and uses materials from:
 Special thanks to Professor Shawn Wings for his dedication to student learning.
 
 ## License
-Materials in this repository are shared under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). Please attribute appropriately when using these materials.
+Materials in this repository are shared under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). 
