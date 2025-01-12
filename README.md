@@ -1,7 +1,7 @@
 # Foundations-of-Data-Science
 
 ## Overview
-This repository contains materials and resources for the *Foundation of Data Science* course offered at City College of San Francisco under the guidance of Professor Shawn Wings. The course leverages materials from the acclaimed [Data 8](https://data8.org/) curriculum created by the UC Berkeley Division of Computing, Data Science, and Information.
+This repository contains materials and resources for the *Foundation of Data Science* course offered at City College of San Francisco under the guidance of Professor Shawn Wiggins. The course leverages materials from the acclaimed [Data 8](https://data8.org/) curriculum created by the UC Berkeley Division of Computing, Data Science, and Information.
 
 ## Tools and Technologies
 - **Python**: The primary programming language used in the course.
